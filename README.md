@@ -40,7 +40,7 @@ pip install -r requirements.txt
 To start using NetTrack, simply run the main script:
 
 ```bash
-python3 nettrack.py
+python3 TraceNet.py
 ```
 
 
