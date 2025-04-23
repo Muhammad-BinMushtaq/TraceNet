@@ -23,7 +23,19 @@ To run this application, you need to have Python 3.x installed along with the fo
 
 ## Installation
 
-1. Clone this repository or download the code to your local machine.
-2. Create a virtual environment (recommended):
-  
- Github Repository link : https://github.com/Muhammad-BinMushtaq/TraceNet.git
+### Clone the repository:
+
+Clone this repository or download the code to your local machine.
+```bash
+
+  - **https://github.com/Muhammad-BinMushtaq/TraceNet.git**:
+```
+
+### Create a virtual environment (recommended):
+
+### Install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+
