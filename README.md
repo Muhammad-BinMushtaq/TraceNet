@@ -28,7 +28,7 @@ To run this application, you need to have Python 3.x installed along with the fo
 Clone this repository or download the code to your local machine.
 ```bash
 
-  https://github.com/Muhammad-BinMushtaq/TraceNet.git
+https://github.com/Muhammad-BinMushtaq/TraceNet.git
 ```
 
 ### Install the required dependencies:
