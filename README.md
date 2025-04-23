@@ -31,11 +31,17 @@ Clone this repository or download the code to your local machine.
   https://github.com/Muhammad-BinMushtaq/TraceNet.git
 ```
 
-### Create a virtual environment (recommended):
+### Create a virtual environment
 
 ### Install the required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+## Usage
 
+To start using NetTrack, simply run the main script:
+
+```bash
+python3 nettrack.py
+```
 
