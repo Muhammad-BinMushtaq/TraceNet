@@ -179,7 +179,7 @@ def set_threshold():
 # GUI Setup
 # ---------------------------
 root = tk.Tk()
-root.title("NetTrack Monitor")
+root.title("TraceNet")
 root.geometry("400x500")
 root.config(bg='lightblue')
 
