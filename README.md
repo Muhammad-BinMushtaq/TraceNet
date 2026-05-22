@@ -47,4 +47,3 @@ python3 TraceNet.py
 
 - [khadijakhalid12122004-star](https://github.com/khadijakhalid12122004-star)
 
-Test commit by Khadija
